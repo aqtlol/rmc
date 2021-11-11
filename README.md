@@ -1,2 +1,0 @@
-# rmc
-rating da courses
